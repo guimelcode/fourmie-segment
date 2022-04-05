@@ -1,0 +1,16 @@
+@import './variables';
+/**
+ * The following styles get applied both on the front of your site
+ * and in the editor.
+ *
+ * Replace them with your own styles or remove the file completely.
+ */
+
+.wp-block-fourmi-e-segment {
+	background-color: rgba($color: #000000, $alpha: .25);
+	@include manageWidthContent;
+	display: grid;
+	grid-template-columns: repeat(24, 1fr);
+	gap: 0;
+
+}

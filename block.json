@@ -1,0 +1,25 @@
+{
+	"apiVersion": 2,
+	"name": "fourmi-e/segment",
+	"version": "0.1.0",
+	"title": "Fourmi-e Segment",
+	"category": "design",
+	"icon": "tide",
+	"description": "Segment est un conteneur de 24 colonnes avec une marge à gauche. Délimite les grandes parties verticales d'une page/article. - la fourmi-e -",
+	"supports": {
+		"html": false
+	},
+	"textdomain": "fourmie-segment",
+	"attributes": {
+		"backgroundColor": {
+			"type": "string"
+		},
+		"backgroundColorClass": {
+			"type": "string"
+		}
+
+	},
+	"editorScript": "file:./build/index.js",
+	"editorStyle": "file:./build/index.css",
+	"style": "file:./build/style-index.css"
+}
