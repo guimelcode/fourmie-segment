@@ -25,7 +25,7 @@ import save from './save';
  *
  * @see https://developer.wordpress.org/block-editor/reference-guides/block-api/block-registration/
  */
-registerBlockType( 'fourmi-e/segment', {
+registerBlockType('fourmi-e/segment', {
 	/**
 	 * @see ./edit.js
 	 */
@@ -35,4 +35,4 @@ registerBlockType( 'fourmi-e/segment', {
 	 * @see ./save.js
 	 */
 	save,
-} );
+});
