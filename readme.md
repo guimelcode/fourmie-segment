@@ -1,11 +1,11 @@
 # Fourmie Segment
 
-> Contributors:      Guillaume Melennec, The WordPress Contributors
-> Tags:              block
-> Tested up to:      5.8.0
-> Stable tag:        0.1.0
-> License:           GPL-2.0-or-later
-> License URI:       https://www.gnu.org/licenses/gpl-2.0.html
+> + Contributors:      Guillaume Melennec, The WordPress Contributors
+> + Tags:              block
+> + Tested up to:      5.8.0
+> + Stable tag:        0.1.0
+> + License:           GPL-2.0-or-later
+> + License URI:       https://www.gnu.org/licenses/gpl-2.0.html
 
 **Segment est un conteneur de 24 colonnes avec une marge à gauche. Délimite les grandes parties verticales d'une page ou d'un article**
 
